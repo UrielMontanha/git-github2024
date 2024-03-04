@@ -3,4 +3,4 @@ Meu primeioro repositório no GitHub.
 
 Meu primeiro commit.
 
-Eu me chamo Uriel Montanha, sou aluno do IFFar Uruguaiana.
+Eu me chamo Uriel Montanha, tenho 16 anos. Sou aluno do IFFar Uruguaiana.
