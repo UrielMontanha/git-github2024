@@ -6,6 +6,23 @@
     <title>Document</title>
 </head>
 <body>
-    Olá pessoal, tudo bem? Aqui quem fala é o games edu!
+
+<form method = "">
+
+    <fieldset>
+        <legend><h1>Login</h1></legend>
+    </fieldset>
+    
+    </form>
 </body>
 </html>
+
+
+<?PHP
+
+
+
+
+
+
+?>
