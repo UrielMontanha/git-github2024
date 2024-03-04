@@ -6,23 +6,22 @@
     <title>Document</title>
 </head>
 <body>
-
-<form method = "">
-
-    <fieldset>
-        <legend><h1>Login</h1></legend>
-    </fieldset>
-    
-    </form>
+    <table>
+        <thaed>
+            <tr>
+                <th>ID</th>
+                <th>Email</th>
+                <th cosplan="2" >opções</th>
+            </tr>
+        </thaed>
+        <tdbody>
+            <tr>
+                <td>1</td>
+                <td>Uriel</td>
+                <td>Aletrar</td>
+                <td>Excluir</td>
+            </tr>
+        </tdbody>
+    </table>
 </body>
 </html>
-
-
-<?PHP
-
-
-
-
-
-
-?>
